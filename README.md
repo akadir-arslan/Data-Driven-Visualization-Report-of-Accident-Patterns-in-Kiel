@@ -43,13 +43,7 @@ This visualization presents a time series analysis showing how the number of acc
 
 ## Recommendations
 
-Based on the visualizations, the following recommendations are provided for the municipality of Kiel:
-
-1. Focus on improving road safety in the seven central districts where accidents are concentrated.
-2. Enhance road lighting, especially in twilight conditions, to reduce accident severity.
-3. Investigate the high accident rates in 2016 and analyze potential changes in road conditions or regulations that may have contributed to this spike.
-4. Analyze the decline in accidents after 2018 to identify effective measures that can be expanded to other areas of Kiel.
-5. Share the findings with the public and promote awareness among drivers, especially regarding the most common accident types and locations.
+Based on the visualizations, some critical recommendations are provided for the municipality of Kiel
 
 ## How to Run
 
